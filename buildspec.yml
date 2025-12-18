@@ -12,6 +12,6 @@ phases:
     commands:
       - ng build -c production
 artifacts:
-  base-directory: dist/my-angular-project
+  base-directory: dist/cradleofbooks
   files:
     - '**/*'
